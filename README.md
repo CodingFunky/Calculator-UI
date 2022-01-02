@@ -1,3 +1,4 @@
+<a href="https://codingfunky.github.io/Calculator-UI/">Live Page</a>
 # Exercise 08 - Calculator
 
 The goal for this exercise is to create a calculator that does the following:
